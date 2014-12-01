@@ -44,7 +44,7 @@ var app = {
     	};
 
     	function onError(compassError) {
-        	alert('Compass error: ' + compassError.code);
+        	alert('Compass Error: ' + compassError.code);
     	};
 
     	var options = {
